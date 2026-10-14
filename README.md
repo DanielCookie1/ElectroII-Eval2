@@ -3,7 +3,7 @@
 _Proyecto de Electromagnetismo II_
 
 Integrantes:
-Daniel Coto Céspedes
-Anthony Madrigal Salazar
+- Daniel Coto Céspedes
+- Anthony Madrigal Salazar
 
 Favor leer el ipynb.
